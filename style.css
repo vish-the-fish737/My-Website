@@ -1,3 +1,9 @@
+body
+{
+  margin: 0;
+  padding: 0;
+}
+
 .center
 {
   display: block;
@@ -9,32 +15,80 @@
 {
   color: orange;
   text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.image-container
+{
+  position: relative;
+  width: fit-content;
+  margin: 0 auto;
+  overflow: hidden;
 }
 
 img
 {
   display: block;
-  margin-left: auto;
-  margin-right: auto;
-  border-radius: 90%;
+  width: 100%;
+  height: auto;
+  object-fit: cover;
 }
 
 p
 {
   text-align: center;
-  padding-top: 0px;
   margin: 0;
+  padding-bottom: 0;
 }
 
-.cropped
+button
 {
-  width: 1365px;
-  height: 1365px;
-  overflow: hidden;
-  border: 5px solid black;
+  border: none;
+  cursor: pointer;
+  padding: 14px 61px;
+  font-size: 32px;
+  color: white;
 }
 
-.cropped img
+.redbtn
 {
-  margin: -180px -180px -180px -180px;
+  background-color: red;
+}
+
+.obtn
+{
+  background-color: orange;
+}
+
+.ybtn
+{
+  background-color: yellow;
+  color: black;
+}
+
+.gbtn
+{
+  background-color: green;
+}
+
+.bluebtn
+{
+  background-color: blue;
+}
+
+.pubtn
+{
+  background-color: purple;
+}
+
+.pibtn
+{
+  background-color: hotpink;
+}
+
+button:hover
+{
+  background-color: white;
+  color: black;
 }
