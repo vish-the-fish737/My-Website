@@ -41,6 +41,7 @@ p
   text-align: center;
   margin: 0;
   padding-bottom: 0;
+  color: white;
 }
 
 button
@@ -62,7 +63,7 @@ button
 .button-container
 {
   position: absolute;
-  bottom: 100px;
+  bottom: 80px;
   right: 100px;
   color: white;
   font-size: 24px;
@@ -125,14 +126,145 @@ button:hover
 {
   padding: 10px 20px;
   border: 1px solid brown;
-  background-color: white;
+  background-color: magenta;
   color: black;
   cursor: pointer;
 }
 
 .tab-button.active
 {
-  background-color: white;
+  background-color: magenta;
   color: black;
   text-decoration: underline;
+}
+
+#main-title2
+{
+  color: lime;
+  text-align: center;
+  font-size: 75px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+#main-title3
+{
+  color: lightblue;
+  text-align: center;
+  font-size: 75px;
+  margin-top: 20px;
+  margin-bottom: 5px;
+}
+
+#main-title4
+{
+  color: skyblue;
+  text-align: center;
+  font-size: 75px;
+  margin-top: 20px;
+  margin-bottom: 5px;
+}
+
+#main-title5
+{
+  color: cyan;
+  text-align: center;
+  font-size: 75px;
+  margin-top: 20px;
+  margin-bottom: 5px;
+}
+
+#main-title6
+{
+  color: darkcyan;
+  text-align: center;
+  font-size: 75px;
+  margin-top: 20px;
+  margin-bottom: 5px;
+}
+
+#main-title7
+{
+  color: cadetblue;
+  text-align: center;
+  font-size: 75px;
+  margin-top: 20px;
+  margin-bottom: 5px;
+}
+
+#main-title8
+{
+  color: aliceblue;
+  text-align: center;
+  font-size: 75px;
+  margin-top: 20px;
+  margin-bottom: 5px;
+}
+
+
+#main-title9
+{
+  color: maroon;
+  text-align: center;
+  font-size: 75px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.title-container
+{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+#sub-title
+{
+  color: red;
+  margin-top: 5px;
+  margin-bottom: 3px;
+}
+
+#edu
+{
+  color: red;
+}
+
+#sub-title2
+{
+  color: orangered;
+  margin-top: 20px;
+  margin-bottom: 3px;
+}
+
+#exp
+{
+  color: orangered;
+}
+
+
+#sub-title3
+{
+  color: indianred;
+  margin-top: 20px;
+  margin-bottom: 3px;
+}
+
+#cw
+{
+  color: orange;
+}
+
+
+#sub-title4
+{
+  color: coral;
+  margin-top: 20px;
+  margin-bottom: 3px;
+}
+
+#act
+{
+  color: coral;
 }
