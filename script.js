@@ -14,4 +14,4 @@ function openTab(evt, tabName) {
   
   function openTab(url) {
     window.location.href = url;
-  }s
+  }
