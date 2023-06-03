@@ -15,6 +15,7 @@ body
 {
   color: orange;
   text-align: center;
+  font-size: 75px;
   margin-top: 20px;
   margin-bottom: 20px;
 }
@@ -30,7 +31,7 @@ body
 img
 {
   display: block;
-  width: 100%;
+  width: 50%;
   height: auto;
   object-fit: cover;
 }
@@ -44,11 +45,28 @@ p
 
 button
 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 68%;
+  height: auto;
+  object-fit: cover;
   border: none;
   cursor: pointer;
-  padding: 14px 61px;
+  padding: 14px 191px;
   font-size: 32px;
   color: white;
+  white-space: nowrap;
+}
+
+.button-container
+{
+  position: absolute;
+  bottom: 100px;
+  right: 100px;
+  color: white;
+  font-size: 24px;
+  text-align: right;
 }
 
 .redbtn
@@ -91,4 +109,30 @@ button:hover
 {
   background-color: white;
   color: black;
+}
+
+.tab-container
+{
+  width: 100%;
+}
+
+.tab-buttons
+{
+  display: flex;
+}
+
+.tab-button
+{
+  padding: 10px 20px;
+  border: 1px solid brown;
+  background-color: white;
+  color: black;
+  cursor: pointer;
+}
+
+.tab-button.active
+{
+  background-color: white;
+  color: black;
+  text-decoration: underline;
 }

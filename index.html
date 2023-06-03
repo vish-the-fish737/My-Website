@@ -9,10 +9,18 @@
 </head>
 
 <body style="background-color:black;">
+  <div class="tab-container">
+  <div class="tab-buttons">
+    <button class="tab-button active" onclick="openTab(event, 'tab1')">Home</button>
+    <button class="tab-button" onclick="openTab(event, 'tab2')">About Me</button>
+    <button class="tab-button" onclick="openTab(event, 'tab3')">Résumé</button>
+  </div>
+  </div>
   <h1 id="main-title">Vishruth "Vishu" Kodikanti</h1>
   <div class="image-container">
   <img src="4FF69B0F-ABCA-4046-A480-7BC86153E395.png" alt="Picture of Vishu">
 </div>
+  <div class="button-container">
     <p><button class="redbtn" onclick="window.open('https://www.linkedin.com/in/vishu-k/')" target="_blank">
       LinkedIn
     </button></p>
@@ -34,6 +42,7 @@
     <p><button class="pibtn" onclick="window.open('mailto:vish.fish789@gmail.com')" target="_blank">
       Email Me
     </button></p>
+  </div>
   <script src="script.js"></script>
 </body>
 
