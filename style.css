@@ -231,7 +231,7 @@ button:hover
   color: red;
 }
 
-#sub-title2
+/*#sub-title2
 {
   color: orangered;
   margin-top: 20px;
@@ -241,8 +241,7 @@ button:hover
 #exp
 {
   color: orangered;
-}
-
+}*/
 
 #sub-title3
 {
@@ -253,7 +252,7 @@ button:hover
 
 #cw
 {
-  color: orange;
+  color: indianred;
 }
 
 
@@ -267,4 +266,16 @@ button:hover
 #act
 {
   color: coral;
+}
+
+#sub-title5
+{
+  color: orange;
+  margin-top: 20px;
+  margin-bottom: 3px;
+}
+
+#ski
+{
+  color: orange;
 }
