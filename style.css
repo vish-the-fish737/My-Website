@@ -64,7 +64,6 @@ button
   width: 68%;
   height: auto;
   object-fit: cover;
-  border: none;
   cursor: pointer;
   padding: 14px 191px;
   font-size: 32px;
@@ -288,4 +287,4 @@ button:hover
 #ski
 {
   color: orange;
-}
+}s
