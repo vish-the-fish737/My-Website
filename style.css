@@ -138,6 +138,15 @@ button:hover
   margin-bottom: 20px;
 }
 
+#in2
+{
+  margin-top: 7px;
+  height: auto;
+  width: auto;
+  object-fit: cover;
+  display: inline-block;
+}
+
 #main-title3
 {
   color: beige;
@@ -215,18 +224,6 @@ button:hover
   color: red;
 }
 
-/*#sub-title2
-{
-  color: orangered;
-  margin-top: 20px;
-  margin-bottom: 3px;
-}
-
-#exp
-{
-  color: orangered;
-}*/
-
 #sub-title3
 {
   color: indianred;
@@ -271,6 +268,13 @@ button:hover
   color: orange;
 }
 
+/*#in
+{
+  display: inline;
+  width:25%;
+  height: auto;
+}*/
+
 .thurlste
 {
   display: inline;
@@ -281,4 +285,27 @@ button:hover
 {
   display: inline;
   color: beige;
+}
+
+.container2
+{
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  margin: 0;
+}
+
+.image-wrapper
+{
+  margin: 0;
+  display: inline;
+}
+
+#in
+{
+  margin: none;
+  height: 500px;
+  width: auto;
+  object-fit: cover;
+  display: inline-block;
 }
