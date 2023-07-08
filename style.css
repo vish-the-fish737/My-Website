@@ -13,7 +13,7 @@ body
 
 #main-title
 {
-  color: black;
+  color: orange;
   text-align: center;
   font-size: 75px;
   margin-top: 20px;
@@ -53,13 +53,13 @@ p
   text-align: center;
   margin: 0;
   padding-bottom: 0;
-  color: white;
+  color: orange;
 }
 
 .thurlst
 {
   display: inline;
-  color: aliceblue;
+  color: orange;
 }
 
 h2
@@ -79,7 +79,7 @@ button
   cursor: pointer;
   padding: 14px 191px;
   font-size: 32px;
-  color: white;
+  color: orange;
   white-space: nowrap;
   text-align: center;
 }
@@ -87,20 +87,20 @@ button
 .redbtn
 {
   margin: 10px;
-  background-color: cornflowerblue;
-  border: 1px solid cornflowerblue;
+  background-color: orange;
+  color: blue;
 }
 
 button:hover
 {
-  background-color: white;
-  color: black;
+  background-color: blue;
+  color: orange;
 }
 
 .thurlst5
 {
   display: inline;
-  color: beige;
+  color: orange;
 }
 
 .tab-container
@@ -111,27 +111,26 @@ button:hover
 .tab-buttons
 {
   display: flex;
-  border: 1px solid brown;
 }
 
 .tab-button
 {
   padding: 10px 20px;
-  background-color: magenta;
-  color: black;
+  background-color: orange;
+  color: blue;
   cursor: pointer;
 }
 
 .tab-button.active
 {
-  background-color: magenta;
-  color: black;
+  background-color: orange;
+  color: blue;
   text-decoration: underline;
 }
 
 #main-title2
 {
-  color: darkgreen;
+  color: orange;
   text-align: center;
   font-size: 75px;
   margin-top: 20px;
@@ -149,49 +148,49 @@ button:hover
 
 #main-title3
 {
-  color: beige;
+  color: orange;
   display: inline;
 }
 
 #main-title4
 {
-  color: beige;
+  color: orange;
   display: inline;
 }
 
 #main-title5
 {
-  color: beige;
+  color: orange;
   display: inline;
 }
 
 #main-title6
 {
-  color: beige;
+  color: orange;
   display: inline;
 }
 
 .thurlst6
 {
   display: inline;
-  color: beige;
+  color: orange;
 }
 
 #main-title7
 {
-  color: beige;
+  color: orange;
   display: inline;
 }
 
 #main-title8
 {
-  color: beige;
+  color: orange;
   display: inline;
 }
 
 #main-title9
 {
-  color: maroon;
+  color: orange;
   text-align: center;
   font-size: 75px;
   margin-top: 20px;
@@ -209,51 +208,51 @@ button:hover
 .thurlst7
 {
   display: inline;
-  color: beige;
+  color: orange;
 }
 
 #sub-title
 {
-  color: red;
+  color: orange;
   margin-top: 5px;
   margin-bottom: 3px;
 }
 
 #edu
 {
-  color: red;
+  color: orange;
 }
 
 #sub-title3
 {
-  color: indianred;
+  color: orange;
   margin-top: 20px;
   margin-bottom: 3px;
 }
 
 #sub
 {
-  color: darkgreen;
+  color: orange;
   margin-top: 20px;
   margin-bottom: 3px;
 }
 
 #cw
 {
-  color: indianred;
+  color: orange;
 }
 
 
 #sub-title4
 {
-  color: coral;
+  color: orange;
   margin-top: 20px;
   margin-bottom: 3px;
 }
 
 #act
 {
-  color: coral;
+  color: orange;
 }
 
 #sub-title5
@@ -278,13 +277,13 @@ button:hover
 .thurlste
 {
   display: inline;
-  color: beige;
+  color: orange;
 }
 
 .thurlsty
 {
   display: inline;
-  color: beige;
+  color: orange;
 }
 
 .container2
