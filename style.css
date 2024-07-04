@@ -88,7 +88,7 @@ button
 {
   margin: 10px;
   background-color: black;
-  color: blue;
+  color: orange;
 }
 
 button:hover
@@ -116,21 +116,21 @@ button:hover
 .tab-button
 {
   padding: 10px 20px;
-  background-color: orange;
-  color: blue;
+  background-color: black;
+  color: orange;
   cursor: pointer;
 }
 
 .tab-button.active
 {
-  background-color: orange;
-  color: blue;
+  background-color: black;
+  color: orange;
   text-decoration: underline;
 }
 
 #main-title2
 {
-  color: orange;
+  color: black;
   text-align: center;
   font-size: 75px;
   margin-top: 20px;
@@ -148,49 +148,49 @@ button:hover
 
 #main-title3
 {
-  color: orange;
+  color: black;
   display: inline;
 }
 
 #main-title4
 {
-  color: orange;
+  color: black;
   display: inline;
 }
 
 #main-title5
 {
-  color: orange;
+  color: black;
   display: inline;
 }
 
 #main-title6
 {
-  color: orange;
+  color: black;
   display: inline;
 }
 
 .thurlst6
 {
   display: inline;
-  color: orange;
+  color: black;
 }
 
 #main-title7
 {
-  color: orange;
+  color: black;
   display: inline;
 }
 
 #main-title8
 {
-  color: orange;
+  color: black;
   display: inline;
 }
 
 #main-title9
 {
-  color: orange;
+  color: black;
   text-align: center;
   font-size: 75px;
   margin-top: 20px;
@@ -208,82 +208,75 @@ button:hover
 .thurlst7
 {
   display: inline;
-  color: orange;
+  color: black;
 }
 
 #sub-title
 {
-  color: orange;
+  color: black;
   margin-top: 5px;
   margin-bottom: 3px;
 }
 
 #edu
 {
-  color: orange;
+  color: black;
 }
 
 #sub-title3
 {
-  color: orange;
+  color: black;
   margin-top: 20px;
   margin-bottom: 3px;
 }
 
 #sub
 {
-  color: orange;
+  color: black;
   margin-top: 20px;
   margin-bottom: 3px;
 }
 
 #cw
 {
-  color: orange;
+  color: black;
 }
 
 
 #sub-title4
 {
-  color: orange;
+  color: black;
   margin-top: 20px;
   margin-bottom: 3px;
 }
 
 #act
 {
-  color: orange;
+  color: black;
 }
 
 #sub-title5
 {
-  color: orange;
+  color: black;
   margin-top: 20px;
   margin-bottom: 3px;
 }
 
 #ski
 {
-  color: orange;
+  color: black;
 }
-
-/*#in
-{
-  display: inline;
-  width:25%;
-  height: auto;
-}*/
 
 .thurlste
 {
   display: inline;
-  color: orange;
+  color: black;
 }
 
 .thurlsty
 {
   display: inline;
-  color: orange;
+  color: black;
 }
 
 .container2
