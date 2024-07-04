@@ -77,7 +77,7 @@ button
   height: auto;
   object-fit: cover;
   cursor: pointer;
-  /*padding: 14px 191px;*/
+  padding: 14px 191px;
   font-size: 32px;
   color: black;
   white-space: nowrap;
