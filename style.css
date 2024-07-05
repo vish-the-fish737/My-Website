@@ -87,7 +87,7 @@ button
 
 .redbtn
 {
-  margin: 10px;
+  /*margin: 10px;*/
   background-color: black;
   color: orange;
 }
@@ -116,7 +116,7 @@ button:hover
 
 .tab-button
 {
-  padding: 10px 20px;
+  /*padding: 10px 20px;*/
   background-color: black;
   color: orange;
   cursor: pointer;
